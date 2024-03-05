@@ -1,5 +1,4 @@
-const {
-    getAllLibros,
+const { getAllLibros,
     createLibro,
     updateLibro,
     deleteLibro,
